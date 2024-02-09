@@ -2,7 +2,7 @@ import React from 'react'
 
 const useAuthCalls = () => {
   return (
-    <div>useAuthCalls</div>
+    <div></div>
   )
 }
 
