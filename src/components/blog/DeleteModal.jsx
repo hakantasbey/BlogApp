@@ -2,7 +2,7 @@ import React from 'react'
 
 const DeleteModal = () => {
   return (
-    <div>DeleteModal</div>
+    <div></div>
   )
 }
 
